@@ -1,0 +1,14 @@
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\bin\Debug\PS4_Error_Code_Viewer.exe.config
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\bin\Debug\PS4_Error_Code_Viewer.exe
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\bin\Debug\PS4_Error_Code_Viewer.pdb
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\PS4_Error_Code_Viewer.csprojResolveAssemblyReference.cache
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\MainWindow.g.cs
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\App.g.cs
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\PS4_Error_Code_Viewer_MarkupCompile.cache
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\PS4_Error_Code_Viewer_MarkupCompile.lref
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\MainWindow.baml
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\PS4_Error_Code_Viewer.g.resources
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\PS4_Error_Code_Viewer.Properties.Resources.resources
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\PS4_Error_Code_Viewer.csproj.GenerateResource.Cache
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\PS4_Error_Code_Viewer.exe
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS4_Error_Code_Viewer\PS4_Error_Code_Viewer\obj\Debug\PS4_Error_Code_Viewer.pdb
